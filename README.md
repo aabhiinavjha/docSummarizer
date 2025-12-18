@@ -62,7 +62,7 @@ The summarization process follows these steps:
 ```bash
 pip install -r requirements.txt
 
-
+```
 ### 2️⃣ Run the summarizer
 ```bash
 python3 main.py sample/example.txt
